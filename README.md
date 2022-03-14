@@ -4,9 +4,9 @@
 
 The objective of this notebook (in French) is to study the <b> evolution of covid19 </b> in france as well as the <b> effect of vaccination </b>. 
 
-The data was retrieved from the French government website: https://www.data.gouv.fr/fr/datasets/r/381a9472-ce83-407d-9a64-1b8c23af83df
-
 <h2> Abstract </h2>
+
+The data was retrieved from the French government website: https://www.data.gouv.fr/fr/datasets/r/381a9472-ce83-407d-9a64-1b8c23af83df
 
 In the 1st part I studied the evolution of the Reproduction rate (picture below), positivity rate, incidence rate and occupation rate using the <b> plotly </b> library
 
